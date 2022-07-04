@@ -50,7 +50,7 @@
 }
 
 .galleryimg {
-    background: url('../img/gallery1.jpg');
+    background: url('../../flet.jpg');
     background-position: center;
     background-size: cover;
     margin: 10px;
@@ -58,7 +58,7 @@
 }
 
 .galleryimg2 {
-    background: url('../img/gallery2.jpg');
+    background: url('../../flet2.jpg');
     background-position: center;
     background-size: cover;
     margin: 10px;
@@ -66,7 +66,7 @@
 }
 
 .galleryimg3 {
-    background: url('../img/gallery3.jpg');
+    background: url('../../flet3.jpg');
     background-position: center;
     background-size: cover;
     margin: 10px;
@@ -74,7 +74,7 @@
 }
 
 .galleryimg4 {
-    background: url('../img/gallery4.jpg');
+    background: url('../../favicon.png');
     background-position: center;
     background-size: cover;
     margin: 10px;
